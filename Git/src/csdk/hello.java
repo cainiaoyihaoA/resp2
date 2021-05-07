@@ -12,4 +12,7 @@ public class hello {
         System.out.println("的人反弹规划局");
         System.out.println("的人反弹规划局");
     }
+    public void eat(){
+        System.out.println("吃饭");
+    }
 }
