@@ -19,4 +19,7 @@ public class hello {
     public void run(){
         System.out.println("跑步");
     }
+    public void go(){
+        System.out.println("ghj");
+    }
 }
